@@ -193,19 +193,19 @@ const QUESTIONS = [
   //  PART 2 — MCQ  (Q21 – Q40)
   // ══════════════════════════════════════════════════════════════
   {
-    "id": 21,
-    "part": "Part 2 — Multiple Choice Questions",
-    "type": "mcq",
-    "category": "OOP Concepts Refresher",
-    "scenario": "A developer creates a parent class Employee and a child class Manager. The Manager class reuses the properties and methods of the Employee class.",
-    "question": "Which Object-Oriented Programming concept is demonstrated in this scenario?",
-    "options": [
-      "Encapsulation",
-      "Inheritance",
-      "Polymorphism",
-      "Abstraction"
+    id: 21,
+    part: "Part 2 — Multiple Choice Questions",
+    type: "mcq",
+    category: "CRM Basics",
+    scenario: "A company wants developers to build new features without affecting live business data.",
+    question: "Which Salesforce environment should developers primarily use?",
+    options: [
+      "Production Org",
+      "Developer Sandbox",
+      "Developer Edition",
+      "Scratch Org"
     ],
-    "answer": 1
+    answer: 1
   },
   {
     "id": 22,
