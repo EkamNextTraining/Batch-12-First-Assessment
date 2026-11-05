@@ -10,13 +10,13 @@ const QUESTIONS = [
   //  PART 1 — SCENARIO / DESCRIPTIVE  (Q1 – Q20)
   // ══════════════════════════════════════════════════════════════
   {
-    "id": 1,
-    "part": "Part 1 — Scenario Questions",
-    "type": "scenario",
-    "category": "OOP Concepts Refresher",
-    "scenario": "A developer is building a Salesforce application that manages different types of employees. All employees share common properties such as Name, Email, and Salary, but different employee types have their own specific behaviors.",
-    "question": "How can Object-Oriented Programming concepts such as Inheritance, Encapsulation, Polymorphism, and Abstraction be used to design this application? Explain with suitable examples.",
-    "placeholder": "Enter your answer..."
+    id: 1,
+    part: "Part 1 — Scenario Questions",
+    type: "scenario",
+    category: "CRM Basics",
+    scenario: "ABC Technologies wants separate environments for development, testing, and production. Developers should not directly make changes in the live system.",
+    question: "Which Salesforce environments would you recommend for development, testing, and production? Explain your choice.",
+    placeholder: "Enter your answer..."
   },
   {
     "id": 2,
